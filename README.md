@@ -1,5 +1,3 @@
-# data-modeling
-
 # Data Modeling Project
 
 This repository contains data modeling, ingestion, and analysis work for structuring and optimizing schema design for nested JSON data.
