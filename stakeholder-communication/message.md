@@ -1,6 +1,6 @@
 Hello,
 
-Based on my recent work involving some exploration of database, schemas and data tables, I would like to ask some questions, raise potential concerns and gain some insights to build on my work.
+Based on my recent work involving some exploration of database, schemas and data tables, I would like to ask some questions, raise potential concerns and gain some insights to build on my work. I have broken down my thoughts below:
 
 ## 1. Questions about the data?
 
@@ -34,3 +34,10 @@ Example -
 * With modern data warehouses offering nearly infinite storage and charging on compute, storing lots f unstructured raw data in production can be costly. If a simple SELECT * FROM TABLE_NAME with some condition ends up scanning one big table, it incrementally adds up to not just cost but also slow retrieval of data for analyst as query logic builds up with joins.   
 * A sound business logic to collect and hold onto relevant data, structure model properly  will help to cull some of the data columns in production, having access to only what is needed.  
 * A discussion around these topics could be really fruitful for our engineering, analytical and business efforts around the data we collect and own. 
+
+
+
+I look forward to discussing these points and contributing in streamlining our data collection, and models. 
+
+Best, 
+Abhinav
