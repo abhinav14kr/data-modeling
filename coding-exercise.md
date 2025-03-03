@@ -79,7 +79,8 @@ categoryCode: The category code that references a BrandCategory
 cpg: reference to CPG collection
 topBrand: Boolean indicator for whether the brand should be featured as a 'top brand'
 name: Brand name
-How do I submit my exercise?
+
+* How do I submit my exercise?
 Provide a link to a public repository (i.e., GitHub, Bitbucket) to your recruiter. Please do not send files directly via email.
 
 # FAQs
