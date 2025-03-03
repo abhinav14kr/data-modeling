@@ -43,31 +43,31 @@ The repository demonstrates a multi-layered data modeling approach:
 
 ```bash
 ├── data-ingestion/              # Raw data files and ingestion scripts
-│   ├── brands.json              # Brand data in JSON format
-│   ├── brands.json.gz           # Compressed brand data
+│   ├── brands.json              
+│   ├── brands.json.gz           
 │   ├── load.sql                 # SQL scripts for data loading
-│   ├── receipts.json            # Receipt data in JSON format
-│   ├── receipts.json.gz         # Compressed receipt data
-│   ├── users.json               # User data in JSON format
-│   └── users.json.gz            # Compressed user data
+│   ├── receipts.json          
+│   ├── receipts.json.gz        
+│   ├── users.json          
+│   └── users.json.gz          
 │
-├── data-modeling/               # Data modeling artifacts and scripts
-│   ├── brands-gold-table.sql    # SQL for creating gold-level brand tables
+├── data-modeling/               # Data modeling artifacts and scripts for gold layer (production-level data) 
+│   ├── brands-gold-table.sql    
 │   ├── erd.jpg                  # Entity Relationship Diagram
-│   ├── receipts-gold-table.sql  # SQL for creating gold-level receipt tables
-│   └── user-details-gold-table.sql # SQL for creating gold-level user tables
+│   ├── receipts-gold-table.sql  
+│   └── user-details-gold-table.sql 
 │
-├── data-quality-issue/          # Scripts and documentation for data quality checks
-│   ├── data-quality.sql         # SQL queries for data quality verification
-│   └── task.txt                 # Documentation of data quality tasks
+├── data-quality-issue/          # Scripts and documentation to identify data quality improvements and issues
+│   ├── data-quality.sql         
+│   └── task.txt               
 │
-├── questions/                   # Analytical questions and queries
-│   ├── questions.sql            # SQL queries for business analytics
-│   └── task.txt                 # Documentation of analytical tasks
+├── questions/                   # Answering business questions leveraging data model
+│   ├── questions.sql            
+│   └── task.txt                
 │
-└── stakeholder-communication/   # Communication artifacts for project stakeholders
-    ├── message.md               # Messages for stakeholder communication
-    └── task.txt                 # Documentation of communication tasks
+└── stakeholder-communication/   # Discussion points with stakeholders
+    ├── message.md              
+    └── task.txt                
 
 
 
