@@ -31,7 +31,7 @@ Example -
 
 ## 5. What performance and scaling concerns do I anticipate in production and how do I plan to address them?
 
-* With modern data warehouses offering nearly infinite storage and charging on compute, storing lots f unstructured raw data in production can be costly. If a simple SELECT * FROM TABLE_NAME with some condition ends up scanning one big table, it incrementally adds up to not just cost but also slow retrieval of data for analyst as query logic builds up with joins.   
+* With modern data warehouses offering nearly infinite storage and charging on compute, storing lots of unstructured raw data in production can be costly. If a simple SELECT * FROM TABLE_NAME with some condition ends up scanning one big table, it incrementally adds up to not just cost but also slow retrieval of data for analyst as query logic builds up with joins.   
 * A sound business logic to collect and hold onto relevant data, structure model properly  will help to cull some of the data columns in production, having access to only what is needed.  
 * A discussion around these topics could be really fruitful for our engineering, analytical and business efforts around the data we collect and own. 
 
@@ -39,5 +39,3 @@ Example -
 
 I look forward to discussing these points and contributing in streamlining our data collection, and models. 
 
-Best, 
-Abhinav

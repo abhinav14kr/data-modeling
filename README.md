@@ -1,6 +1,6 @@
 # Data Modeling Assessment
 
-This repository contains data modeling, ingestion, and analysis work for structuring and optimizing schema design for [Fetch Analytics Take Home Assessment](https://fetch-hiring.s3.amazonaws.com/analytics-engineer/ineeddata-data-modeling/data-modeling.html)
+This repository contains data modeling, ingestion, and analysis work for structuring and optimizing schema design for [Fetch Analytics Take Home Assessment](https://fetch-hiring.s3.amazonaws.com/analytics-engineer/ineeddata-data-modeling/data-modeling.html). 
 
 ![erd](https://github.com/user-attachments/assets/38cd8179-9135-48ce-94f1-eda115621c61)
 
@@ -9,6 +9,10 @@ This repository contains data modeling, ingestion, and analysis work for structu
 ## Project Overview
 
 This assignment focuses on designing and implementing a structured data model for the given nested JSON data. The data includes information about users, brands, and receipts with complex nested structures.
+
+## Platform 
+
+The data injestion, modeling and querying is done on Snowflake platform. The SQL Queries in the directory in the exact order can be run on Snowflake platform to get the results seen with my work. 
 
 ## Data Sources
 
