@@ -2,11 +2,11 @@
 
 This repository contains data modeling, ingestion, and analysis work for structuring and optimizing schema design for nested JSON data.
 
-## Repository Structure
-
 
 ![erd](https://github.com/user-attachments/assets/38cd8179-9135-48ce-94f1-eda115621c61)
 
+
+## Repository Structure
 
 
 ├── data-ingestion/              # Raw data files and ingestion scripts
