@@ -64,15 +64,15 @@ The repository demonstrates a multi-layered data modeling approach:
 │
 ├── data-quality-issue/          # Scripts and documentation to identify data quality improvements and issues
 │   ├── data-quality.sql         
-│   └── task.txt               
+│   └── task.md               
 │
 ├── questions/                   # Answering business questions leveraging data model
 │   ├── questions.sql            
-│   └── task.txt                
+│   └── task.md                
 │
 └── stakeholder-communication/   # Discussion points with stakeholders
     ├── message.md              
-    └── task.txt                
+    └── task.md                
 
 
 
