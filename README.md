@@ -7,8 +7,13 @@ This repository contains data modeling, ingestion, and analysis work for structu
 
 
 ## Repository Structure
+# Data Modeling Project
 
+This repository contains data modeling, ingestion, and analysis work for structuring and optimizing schema design for nested JSON data.
 
+## Repository Structure
+
+```bash
 ├── data-ingestion/              # Raw data files and ingestion scripts
 │   ├── brands.json              # Brand data in JSON format
 │   ├── brands.json.gz           # Compressed brand data
@@ -33,11 +38,8 @@ This repository contains data modeling, ingestion, and analysis work for structu
 │   └── task.txt                 # Documentation of analytical tasks
 │
 └── stakeholder-communication/   # Communication artifacts for project stakeholders
-├── message.md               # Messages for stakeholder communication
-└── task.txt                 # Documentation of communication tasks
-
-
-
+    ├── message.md               # Messages for stakeholder communication
+    └── task.txt                 # Documentation of communication tasks
 
 
 ## Project Overview
