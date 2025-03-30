@@ -1,6 +1,6 @@
 # Data Modeling Assessment
 
-This repository contains data modeling, ingestion, and analysis work for structuring and optimizing schema design for [Fetch Analytics Take Home Assessment](https://fetch-hiring.s3.amazonaws.com/analytics-engineer/ineeddata-data-modeling/data-modeling.html). 
+This repository contains data modeling, ingestion, and analysis work for structuring and optimizing schema design for [Analytics Take Home Assessment](https://fetch-hiring.s3.amazonaws.com/analytics-engineer/ineeddata-data-modeling/data-modeling.html). 
 
 ![erd](https://github.com/user-attachments/assets/38cd8179-9135-48ce-94f1-eda115621c61)
 
